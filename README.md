@@ -1,0 +1,1 @@
+Starting my Bash classes
