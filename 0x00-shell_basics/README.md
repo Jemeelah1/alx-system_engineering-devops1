@@ -1,1 +1,1 @@
-my first readme.md
+starting to write bash script
